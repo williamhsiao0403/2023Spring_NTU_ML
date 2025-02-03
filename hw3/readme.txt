@@ -1,0 +1,2 @@
+resnext101_32x8d和vgg13用了兩次，其他各用一次做ensemble
+要跑的話要先把8個模型都跑完且生成csv，之後用ensemble這個檔案做voting

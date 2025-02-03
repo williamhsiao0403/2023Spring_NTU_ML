@@ -1,0 +1,5 @@
+先跑過這個資料夾裡面的五個模型
+得到output的五個csv檔案之後跑ensemble的py檔
+得到的ensemble_output檔為最後繳交上傳kaggle的檔案
+
+ref: https://blog.csdn.net/qq_43613342/article/details/127007955 參考了上面關於lstm的說明
